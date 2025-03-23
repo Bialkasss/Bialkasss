@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I'm an ambitious Artificial Intelligence student with a strong foundation in IT, data analysis, and deep learning. Recently I became more interested in AI explainability, as I believe it can help general public trust AI processes more. I feel the best im Computer Vision tasks.
+I'm an ambitious Artificial Intelligence student with a strong foundation in IT, data analysis, and deep learning. Recently I became more interested in AI explainability, as I believe it can help general public trust AI processes more. I feel the best in Computer Vision tasks.
 
 ---
 
