@@ -1,6 +1,6 @@
 # Hi, I'm Maria!   
 
-### Artificial Intelligence Student | Computer Vision Enthusiast
+### Artificial Intelligence Student | ML Expert | Computer Vision Enthusiast
 
 📍 Warsaw / Poznań  
 
