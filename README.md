@@ -12,6 +12,7 @@ I'm an ambitious Artificial Intelligence student with a strong foundation in IT,
 ---
 
 ## 🏆 Projects
+- 🏎️ [**JetBot Autonomous Driving sustem for Track Navigation**](https://github.com/Bialkasss/JetBot_self-driving/blob/main/README.md)
 - 🪴 **App with plants classification, inventory and tips chatbot for plant enthusiasts** - in progress
 - 🖼️ [**Image Inpainting with Generative Adversarial Networks and Variational Autoencoders**](https://github.com/Bialkasss/CV-ImageInpainting/blob/d6338d9219f8cf248e6dedee34faf9359547bc10/README.md)
 - 🔍 [**Deep Learning for Anomaly Detection and Root Cause Analysis in Time Series**](https://github.com/Bialkasss/DeepLearning/blob/37d81b76d54dfa7588bfd620b7fe79501b6590f6/RNN/Candies/README.md)
