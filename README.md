@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I'm an ambitious Artificial Intelligence masters student with a strong foundation in IT, data analysis, machine learning and deep learning. I am mainly interested in usage of AI in medicine and heavy industry. Recently I became more interested in AI explainability, as I believe it can help general public trust AI processes more. I am the most interested in Computer Vision tasks.
+I'm Artificial Intelligence masters student with a strong foundation in IT, data analysis, machine learning and deep learning. I am mainly interested in usage of AI in medicine and heavy industry. Recently I became more interested in AI explainability, as I believe it can help general public trust AI processes more. I am the most interested in Computer Vision tasks.
 
 ---
 
