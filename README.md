@@ -23,8 +23,6 @@ I am actively developing my skills in **High-Performance Computing (HPC)** and *
   *Explainable AI (XAI): Building trust in heavy-industry AI processes through transparent computer vision models.*
 - 📡 [**Speed Detection from DAS Recordings**](https://github.com/Bialkasss/Speed-detection-from-DAS-Recordings)  
   *Heavy Data Processing: Analyzing complex Distributed Acoustic Sensing (DAS) time-series data.*
-- 👁️ [**Latest Computer Vision Research & Implementations (2025)**](https://github.com/Bialkasss/Computer_Vision_2025)  
-  *My ongoing repository for modern, state-of-the-art computer vision experiments and algorithms.*
 - 🪴 [**End-to-End Plant Classification App & Recommendation System**](https://github.com/mmartyna123/Inzynierka)  
   *Bachelor's Project: A complete pipeline from deep learning classification to user-facing chatbot.*
 
