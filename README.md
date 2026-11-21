@@ -14,19 +14,18 @@ I am actively developing my skills in **High-Performance Computing (HPC)** and *
 ---
 
 ## 🏆 Featured Projects
-
+- 🌍 [**NASA Space Apps Challange - SAR analysis**](https://github.com/agatabielska/nasa-spaceapps-challenge)
+  *NASA Hackathon: NISAR satelite bitemporal change detection of disasters in a web application with LLM.*
 - 🏎️ [**NVIDIA JetBot Autonomous Driving System for Track Navigation**](https://github.com/Bialkasss/JetBot_self-driving)  
   *Edge AI & Robotics: Autonomous navigation implemented on NVIDIA's JetBot platform.*
 - 🖼️ [**Image Inpainting with Generative Adversarial Networks (GANs) and VAEs**](https://github.com/Bialkasss/CV-ImageInpainting)  
   *SOTA Generative AI: Advanced image reconstruction utilizing modern deep learning architectures.*
 - 🚧 [**Weakly Supervised Deep Learning for Crack Detection with Explainable Localization**](https://github.com/Bialkasss/DeepLearning)  
   *Explainable AI (XAI): Building trust in heavy-industry AI processes through transparent computer vision models.*
-- 📡 [**Speed Detection from DAS Recordings**](https://github.com/Bialkasss/Speed-detection-from-DAS-Recordings)  
-  *Heavy Data Processing: Analyzing complex Distributed Acoustic Sensing (DAS) time-series data.*
 - 🪴 [**End-to-End Plant Classification App & Recommendation System**](https://github.com/mmartyna123/Inzynierka)  
   *Bachelor's Project: A complete pipeline from deep learning classification to user-facing chatbot.*
 
-Explore my [repositories](https://github.com/Bialkasss) to see more of my code, including optimization and algorithm design!
+Explore my [repositories](https://github.com/Bialkasss) to see more of my code, including optimization techniques, algorithm design, software engeineering and more!
 
 ---
 
