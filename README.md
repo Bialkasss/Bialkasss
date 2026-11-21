@@ -14,7 +14,7 @@ I am actively developing my skills in **High-Performance Computing (HPC)** and *
 ---
 
 ## 🏆 Featured Projects
-- 🌍 [**NASA Space Apps Challange - SAR analysis**](https://github.com/agatabielska/nasa-spaceapps-challenge)
+- 🌍 [**NASA Space Apps Challange - SAR analysis**](https://github.com/agatabielska/nasa-spaceapps-challenge)  
   *NASA Hackathon: NISAR satelite bitemporal change detection of disasters in a web application with LLM.*
 - 🏎️ [**NVIDIA JetBot Autonomous Driving System for Track Navigation**](https://github.com/Bialkasss/JetBot_self-driving)  
   *Edge AI & Robotics: Autonomous navigation implemented on NVIDIA's JetBot platform.*
